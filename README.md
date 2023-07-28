@@ -5,7 +5,7 @@ We propose a novel way of employing labeled data such that it also informs LLM o
 
 ### Prepares
 - Pasting your OpenAI key to LLM.py
-- Installing openai package: pip install openai.
+- Installing openai package: pip install openai
 
 ![Overview ](framework.png)
 
