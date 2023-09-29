@@ -17,7 +17,7 @@ feedback, and a reasoning stage for in-context learning with feedback.
 The results of the first two steps are provided in the *dataset* folder.
 
 #### Exercise Stage
-We run the t5 model implemented by MindSpore at this stage. The package mindspore and mindnlp is needed to be installed. 
+We run the t5 model implemented by MindSpore at this stage. The package **mindspore** and **mindnlp** is needed to be installed. 
 
 ```angular2html
 python exercise.py --model_name t5-small --gpu 0
